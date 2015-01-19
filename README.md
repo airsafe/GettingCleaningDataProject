@@ -1,7 +1,7 @@
 # Getting Cleaning Data Project README file
-Course Project from Coursera Course 'Getting and Cleaning Data'
-January 2015
-Todd Curtis
+* Course Project from Coursera Course 'Getting and Cleaning Data'  
+* January 2015  
+* Todd Curtis  
 
 # PROJCECT OBJECTIVE
 This objective of the  project was to create an R script called 
